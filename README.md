@@ -1,1 +1,1 @@
-# Luck Recorder
+# Food Heating Helper
